@@ -1,0 +1,9 @@
+*.zip
+out/
+out_bili/
+out_hd/
+*.m4s
+*.blv
+*.tmp
+.DS_Store
+Thumbs.db
